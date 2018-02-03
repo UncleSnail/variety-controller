@@ -24,12 +24,13 @@ Commands include:
 "Variety version"
 
 ## Examples
-* ""Next desktop background""
-* ""Add this wallpaper to my favorites""
-* ""Open wallpaper history""
+* "Next desktop background"
+* "Add this wallpaper to my favorites"
+* "Open wallpaper history"
 
 ## Credits
 Uncle Snail
+Based on kfezer's "skill_template"
 
 ## Exclude
 platform_mark1 platform_picroft
